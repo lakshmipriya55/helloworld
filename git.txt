@@ -1,10 +1,10 @@
 Hii git
-good learning  git 
+good learning  git in w3school.com
 <<<<<<< HEAD
 
 hmtl file
 =======
-Add image git logo
+Add image git and github logo
 >>>>>>> helloworldimages
 
-new image added
+new image add
